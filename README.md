@@ -1,7 +1,3 @@
-[![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-
-English | [简体中文](./README.zh-CN.md)
-
 
 <p align="center"><img src="https://o2qq673j2.qnssl.com/tower-loading.gif"/></p>
 <h1 align="center">塔楼建造游戏</h1>
@@ -14,6 +10,16 @@ English | [简体中文](./README.zh-CN.md)
     <a href="https://azure12355.github.io/tower_game/"><img src="https://img.shields.io/badge/online-点我即玩-blueviolet.svg?style=plasticr"></a>
     
 </div>
+
+## 项目介绍
+塔楼建造游戏是一款基于 `html` + `css` + `javascript` 编写的纯静态的益智小游戏，非常考验一个人的反应能力和判断能力，你能搭几层楼呢？我的朋友~
+
+## 项目部署
+1.克隆项目源码
+```shell
+git clone https://github.com/Azure12355/tower_game
+```
+2.将项目源码中的 `index.html` 入口文件直接拖入到浏览器中即可运行
 
 ## 效果展示
 <p align="center"><img src="https://user-images.githubusercontent.com/17680888/47480922-93a20c00-d864-11e8-8f7c-6d1d60184730.gif"/></p>
